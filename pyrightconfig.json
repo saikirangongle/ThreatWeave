@@ -1,0 +1,11 @@
+{
+  "include": ["src", "tests", "app.py"],
+  "extraPaths": ["src"],
+  "pythonVersion": "3.11",
+  "pythonPlatform": "Windows",
+  "venvPath": ".",
+  "venv": "venv",
+  "typeCheckingMode": "off",
+  "reportMissingImports": false,
+  "reportMissingModuleSource": false
+}

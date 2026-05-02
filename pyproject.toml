@@ -1,0 +1,8 @@
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths  = ["tests"]
+
+[tool.pyright]
+include          = ["src", "tests", "app.py"]
+extraPaths       = ["src"]
+typeCheckingMode = "off"
