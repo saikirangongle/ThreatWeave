@@ -1,8 +1,0 @@
-{
-  "gemini_api_key": "",
-  "gemini_model": "gemini-1.5-flash",
-  "session_window_minutes": 30,
-  "prediction_top_n": 5,
-  "last_opened_file": "",
-  "theme": "light"
-}
